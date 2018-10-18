@@ -3,6 +3,8 @@
 
 #include <iostream>
 
+//Initial creation. 2018.10.18
+
 void framebuffer_size_callback(GLFWwindow* window, int width, int height)
 {
     glViewport(0, 0, width, height);
